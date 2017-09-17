@@ -1,8 +1,13 @@
-# Overview
-This repository contains all the code needed to complete the final project for the Localization course in Udacity's Self-Driving Car Nanodegree.
+# Kidnapped Vehicle Project
+In this project used particle filter to localize self driving car. The flowchart below represents the steps of the particle filter algorithm as well as its inputs.
 
-#### Submission
-All you will submit is your completed version of `particle_filter.cpp`, which is located in the `src` directory. You should probably do a `git pull` before submitting to verify that your project passes the most up-to-date version of the grading code (there are some parameters in `src/main.cpp` which govern the requirements on accuracy and run time.)
+![alt_text](https://github.com/oalahurikar/CarND-Kidnapped-Vehicle-Project/blob/master/Graph/PF%20Flow%20Chart.png)
+
+
+This repo have completed version of `particle_filter.cpp`, which is located in the `src` directory. Following is screen shot of project result.
+
+![alt_text](https://github.com/oalahurikar/CarND-Kidnapped-Vehicle-Project/blob/master/Graph/graph.PNG)
+
 
 ## Project Introduction
 Your robot has been kidnapped and transported to a new location! Luckily it has a map of this location, a (noisy) GPS estimate of its initial location, and lots of (noisy) sensor and control data.
