@@ -11,11 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88121ec9-410b-43cb-bc0c-e4017ac17607" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/particle_filter.dir/src/particle_filter.cpp.o" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/particle_filter" afterPath="$PROJECT_DIR$/cmake-build-debug/particle_filter" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="88121ec9-410b-43cb-bc0c-e4017ac17607" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,10 +37,10 @@
       <file leaf-file-name="particle_filter.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/particle_filter.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="583">
-              <caret line="119" column="1" lean-forward="false" selection-start-line="119" selection-start-column="1" selection-end-line="119" selection-end-column="1" />
+            <state relative-caret-position="907">
+              <caret line="157" column="75" lean-forward="false" selection-start-line="157" selection-start-column="75" selection-end-line="157" selection-end-column="75" />
               <folding>
-                <element signature="e#93#110#0" expanded="true" />
+                <element signature="e#0#17#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -172,12 +168,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1505581004067</updated>
-      <workItem from="1505581005898" duration="26454000" />
+      <workItem from="1505581005898" duration="27399000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26454000" />
+    <option name="totallyTimeSpent" value="27399000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1204" extended-state="6" />
@@ -214,7 +210,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/src/particle_filter.cpp</url>
-          <line>88</line>
+          <line>77</line>
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="1" />
@@ -258,10 +254,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/particle_filter.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="119" column="1" lean-forward="false" selection-start-line="119" selection-start-column="1" selection-end-line="119" selection-end-column="1" />
+        <state relative-caret-position="907">
+          <caret line="157" column="75" lean-forward="false" selection-start-line="157" selection-start-column="75" selection-end-line="157" selection-end-column="75" />
           <folding>
-            <element signature="e#93#110#0" expanded="true" />
+            <element signature="e#0#17#0" expanded="true" />
           </folding>
         </state>
       </provider>
