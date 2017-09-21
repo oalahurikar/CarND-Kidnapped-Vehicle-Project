@@ -8,6 +8,9 @@ This repo have completed version of `particle_filter.cpp`, which is located in t
 
 ![alt_text](https://github.com/oalahurikar/CarND-Kidnapped-Vehicle-Project/blob/master/Graph/graph.PNG)
 
+## Project Parameters
+
+For small number of observation used only 100 number of particles to save computaional time without sacrificing accuracy.
 
 ## Project Introduction
 Your robot has been kidnapped and transported to a new location! Luckily it has a map of this location, a (noisy) GPS estimate of its initial location, and lots of (noisy) sensor and control data.
